@@ -1,10 +1,4 @@
-**Segmentasi Citra Digital Menggunakan Thresholding**
-
-## Identitas Kelompok
-
-**Mata Kuliah:** Pengolahan Citra Digital
-**Universitas:** Universitas Pamulang
-**Judul Proyek:** Segmentasi Citra Menggunakan Metode Thresholding
+## Segmentasi Citra Digital Menggunakan Thresholding
 
 **Anggota Kelompok:**
 
